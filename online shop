@@ -1,0 +1,13 @@
+online-shop/
+│── index.html
+│── products.html
+│── product.html
+│── cart.html
+│── login.html
+│── register.html
+│── contact.html
+│── css/
+│   └── style.css
+│── js/
+│   └── script.js
+│── images/
